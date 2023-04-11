@@ -8,4 +8,4 @@ Our club is dedicated to promoting the education and practice of zymurgy. We mee
 If you are interested in collaborating with us or attending one of our meetings, please contact us at horsethiefhba@gmail.com. We would be happy to hear from you and answer any questions you may have.
 
 ## Repository
-This Github repository has been set up to share our club recipes, notes, and code. We encourage all members to contribute and collaborate on projects. Let's work together to brew some great beer!
+This Github repository has been set up to share our club recipes and notes. We encourage all members to contribute and collaborate on projects. Let's work together to brew some great beer!
