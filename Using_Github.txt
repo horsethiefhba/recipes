@@ -1,0 +1,52 @@
+Using Github to manage your Homebrew Recipes
+Charles Toepfer 4/11/23
+
+------------------------------------------------
+
+By using Github to manage your BeerXML files, you can easily share your recipes with others and collaborate on recipes with other homebrewers. You can also track changes to recipes over time, which can be useful for troubleshooting issues or improving recipes.
+
+One way to collaborate on recipes is to use the Github pull request feature. This allows other users to suggest changes or improvements to a recipe, and for those changes to be reviewed and potentially merged into the main recipe.
+
+Another benefit of using Github to manage your BeerXML files is that you can use version control to track changes to your recipes. This means that you can easily roll back to a previous version of a recipe if necessary, or compare different versions of a recipe side-by-side.
+
+Overall, Github provides a powerful platform for managing and sharing BeerXML files for beer recipes, and can be a great resource for homebrewers looking to collaborate and share their knowledge and experience.
+
+------------------------------------------------
+
+Here's a step-by-step guide on how to use Github to manage and share BeerXML files for beer recipes:
+
+Create a Github account: The first step is to create a Github account if you haven't already. Go to the Github website (https://github.com/) and click on the "Sign up" button in the top right corner of the page. Follow the instructions to create your account.
+
+Create a new repository: Once you have your Github account, you can create a new repository specifically for your beer recipes. Click on the "New" button in the top left corner of the page, and then select "New repository". Give your repository a name, such as "My Beer Recipes", and add a brief description if you like. Make sure to set the repository to be public if you want to share your recipes with others.
+
+Add BeerXML files: Once you have created your repository, you can add your BeerXML files. To do this, click on the "Upload files" button in the main repository page, and then select the files you want to upload. You can either upload individual files or a group of files. Once you have uploaded your files, you can add a description or notes to each recipe by clicking on the file name.
+
+Collaborate on recipes: One way to collaborate on recipes is to use the Github pull request feature. To do this, click on the "Create new pull request" button in the main repository page. This will allow other users to suggest changes or improvements to a recipe, and for those changes to be reviewed and potentially merged into the main recipe.
+
+Track changes to recipes: Github provides version control to track changes to your recipes. This means that you can easily roll back to a previous version of a recipe if necessary, or compare different versions of a recipe side-by-side. To view the version history of a file, click on the file name in the main repository page, and then click on the "History" button.
+
+That's it! With these simple steps, you can use Github to manage and share your BeerXML files for beer recipes, collaborate with other homebrewers, and track changes to your recipes over time.
+
+------------------------------------------------
+
+To pull recipes from the "horsethiefhba/recipes" repository into your own Github account, you can use the "Fork" feature on Github. This will create a copy of the repository in your own Github account, which you can then modify and work with as needed.
+
+Here's how to fork the "horsethiefhba/recipes" repository:
+
+Go to the "horsethiefhba/recipes" repository on Github (https://github.com/horsethiefhba/recipes).
+
+Click on the "Fork" button in the top right corner of the page. This will create a copy of the repository in your own Github account.
+
+Once the fork is complete, you can access your copy of the repository by going to your own Github account page, and clicking on the "Repositories" tab.
+
+From there, you can download or clone the repository to your local machine, and then access and modify the recipe files as needed.
+
+Note that when you fork a repository, you are creating a separate copy of the repository, and any changes you make to your copy will not affect the original repository. If you want to contribute changes back to the original repository, you can do so by submitting a pull request
+
+------------------------------------------------
+
+If you're interested in becoming a collaborator on the "horsethiefhba/recipes" repository, you can contact the Horse Thief Brewing Association at horsethiefhba@gmail.com. As a collaborator, you would have the ability to contribute changes and improvements to the recipe files, and work with other members of the Association to manage and maintain the repository.
+
+To become a collaborator, you would typically need to go through a review process to ensure that your contributions align with the goals and objectives of the Association. Once you have been approved as a collaborator, you will be granted access to the repository and can start contributing to the project.
+
+If you're interested in learning more about becoming a collaborator, or have any other questions about the repository or the Association, feel free to reach out to horsethiefhba@gmail.com for more information.
